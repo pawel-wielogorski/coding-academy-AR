@@ -1,4 +1,3 @@
-
 Jeśli chcesz sklonować repozytorium do katalogu o nazwie innej niż libgit2, możesz to zrobić podając w wierszu poleceń kolejną opcję:
 ```
 git clone https://github.com/libgit2/libgit2 mylibgit
